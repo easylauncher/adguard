@@ -1,0 +1,5 @@
+# Title: Ad Block List 01
+# Version: 20210612
+# Description: This is a custom block list
+
+127.0.0.1 test.example.com
